@@ -1,30 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>personal blog</title>
-    <link>http://Boyceman.github.io/index.xml</link>
-    <description>Recent content on personal blog</description>
+    <title>BoyceHub</title>
+    <link>http://boycelau.xyz/index.xml</link>
+    <description>Recent content on BoyceHub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>51532853@qq.com (boyce)</managingEditor>
+    <webMaster>51532853@qq.com (boyce)</webMaster>
+    <copyright>(c) 2015 boyce.</copyright>
     <lastBuildDate>Thu, 24 Nov 2016 16:13:07 +0800</lastBuildDate>
-    <atom:link href="http://Boyceman.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://boycelau.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Newbie coming</title>
-      <link>http://boyceman.github.io/post/born/</link>
+      <link>http://boycelau.xyz/2016/11/24/newbie-coming/</link>
       <pubDate>Thu, 24 Nov 2016 16:13:07 +0800</pubDate>
-      
-      <guid>http://boyceman.github.io/post/born/</guid>
+      <author>51532853@qq.com (boyce)</author>
+      <guid>http://boycelau.xyz/2016/11/24/newbie-coming/</guid>
       <description>&lt;p&gt;核心功能有了，以后再也不愁没地儿写东西了。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>about</title>
-      <link>http://boyceman.github.io/about/</link>
+      <link>http://boycelau.xyz/about/</link>
       <pubDate>Tue, 22 Nov 2016 15:09:49 +0800</pubDate>
-      
-      <guid>http://boyceman.github.io/about/</guid>
+      <author>51532853@qq.com (boyce)</author>
+      <guid>http://boycelau.xyz/about/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;One simple static site to record my life&lt;/p&gt;
 
@@ -32,6 +35,24 @@
 &lt;/blockquote&gt;
 
 &lt;p&gt;等博客更新到100篇后就去搞台海外的服务器，满足翻墙的极致需求，顺便把博客改成动态的。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://boycelau.xyz/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>51532853@qq.com (boyce)</author>
+      <guid>http://boycelau.xyz/license/</guid>
+      <description>&lt;p&gt;The MIT License (MIT)&lt;/p&gt;
+
+&lt;p&gt;Copyright &amp;copy; 2015 Marco Pas&lt;/p&gt;
+
+&lt;p&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;laquo;Software&amp;raquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;/p&gt;
+
+&lt;p&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;/p&gt;
+
+&lt;p&gt;THE SOFTWARE IS PROVIDED &amp;laquo;AS IS&amp;raquo;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.&lt;/p&gt;
 </description>
     </item>
     

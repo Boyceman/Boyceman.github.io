@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post-rsses on personal blog</title>
-    <link>http://Boyceman.github.io/post/index.xml</link>
-    <description>Recent content in Post-rsses on personal blog</description>
+    <title>Post-rsses on BoyceHub</title>
+    <link>http://boycelau.xyz/post/index.xml</link>
+    <description>Recent content in Post-rsses on BoyceHub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>51532853@qq.com (boyce)</managingEditor>
+    <webMaster>51532853@qq.com (boyce)</webMaster>
+    <copyright>(c) 2015 boyce.</copyright>
     <lastBuildDate>Thu, 24 Nov 2016 16:13:07 +0800</lastBuildDate>
-    <atom:link href="http://Boyceman.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://boycelau.xyz/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Newbie coming</title>
-      <link>http://boyceman.github.io/post/born/</link>
+      <link>http://boycelau.xyz/2016/11/24/newbie-coming/</link>
       <pubDate>Thu, 24 Nov 2016 16:13:07 +0800</pubDate>
-      
-      <guid>http://boyceman.github.io/post/born/</guid>
+      <author>51532853@qq.com (boyce)</author>
+      <guid>http://boycelau.xyz/2016/11/24/newbie-coming/</guid>
       <description>&lt;p&gt;核心功能有了，以后再也不愁没地儿写东西了。&lt;/p&gt;
 </description>
     </item>
