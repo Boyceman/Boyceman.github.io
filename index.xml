@@ -6,8 +6,18 @@
     <description>Recent content on personal blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Nov 2016 15:09:49 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 24 Nov 2016 16:13:07 +0800</lastBuildDate>
     <atom:link href="http://Boyceman.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Newbie coming</title>
+      <link>http://boyceman.github.io/post/born/</link>
+      <pubDate>Thu, 24 Nov 2016 16:13:07 +0800</pubDate>
+      
+      <guid>http://boyceman.github.io/post/born/</guid>
+      <description>&lt;p&gt;核心功能有了，以后再也不愁没地儿写东西了。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>about</title>
@@ -15,9 +25,13 @@
       <pubDate>Tue, 22 Nov 2016 15:09:49 +0800</pubDate>
       
       <guid>http://boyceman.github.io/about/</guid>
-      <description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;One simple static site to record my life&lt;/p&gt;
 
-&lt;h3 id=&#34;hello-world&#34;&gt;Hello World&lt;/h3&gt;
+&lt;p&gt;他强任他强，清风拂山岗；他横由他横，明月照大江。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;等博客更新到100篇后就去搞台海外的服务器，满足翻墙的极致需求，顺便把博客改成动态的。&lt;/p&gt;
 </description>
     </item>
     
